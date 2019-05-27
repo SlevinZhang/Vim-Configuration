@@ -1,4 +1,5 @@
 set number
+set clipboard=unnamed
 set tabstop=4
 set shiftwidth=4
 set showmatch
